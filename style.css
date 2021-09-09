@@ -37,7 +37,7 @@ header{
 	justify-content: center;
 	color: white;
 	background-color: #474545;
-	padding: 5px 10px;
+	padding: 10px 15px;
 	border-radius: 5px;
 }
 .res:hover{
@@ -64,13 +64,14 @@ header{
 	color: white;
 	font-weight: bold;
 	border-radius: 5px;
+	margin-left: 10px;
 }
 .nav-link:hover{
 	background-color: white;
 	color: black;
 	box-shadow: 0 2px 8px white;
 	border-radius: 5px;
-	margin-left: 10px;
+	margin-left: 20px;
 }
 .nav-item:hover{
 	transition: 0.4s;
